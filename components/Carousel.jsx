@@ -39,10 +39,7 @@ export default function Carousel() {
 
       {/* Texto sobre la imagen con sombra */}
       <div className="absolute inset-0 flex flex-col items-center justify-center text-center">
-        <h1 className="text-2xl md:text-4xl font-semibold text-white drop-shadow-lg">
-          Comida casera · Pastelería · Café de especialidad
-        </h1>
-        <p className="mt-2 text-lg text-white drop-shadow-lg">🐾 Pet Friendly</p>
+        
       </div>
     </div>
   );

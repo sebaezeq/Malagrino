@@ -54,6 +54,16 @@ export default function Home() {
             Comida casera · Pastelería · Café de especialidad
           </h1>
           <p className="mt-2 text-lg drop-shadow-lg">🐾 Pet Friendly</p>
+
+          {/* Botón de contacto */}
+          <a
+            href="https://wa.me/541145282221"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="mt-6 bg-green-500 hover:bg-green-600 text-white font-semibold px-6 py-2 rounded-full shadow-lg transition-transform transform hover:scale-105"
+          >
+            Contacto
+          </a>
         </div>
       </div>
 
